@@ -38,6 +38,8 @@ Debian|GB (assimilates GiB)
 Fedora|GB (GiB in "Settings")
 OpenSuse|
 Manjaro|
+Windows 7|GiB (shown as GB)
+Windows 10|
 * "assimilates" means the unit is disregarded and the default unit is used instead
 * Fedora has a strange unit combination for initial size and for subsequent changes
 
@@ -50,6 +52,7 @@ Krusader|GiB
 Nautilus|GB
 Double Commander|GiB
 Midnight Commander|GB but also GiB
+Windows Explorer|GiB (shown as GB)
 * "but also" means the former is used as default but the latter is available as option
 
 ### OTHER
