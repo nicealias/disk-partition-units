@@ -23,6 +23,13 @@ GParted|GiB
 Gnome Disks|GB (buggy, says "free space" for extended)
 KDE Partition Manager|GiB
 
+### VIRTUAL / CLOUD
+**Program** | **Unit / Comment**
+--- | ---
+VirtualBox|GiB (shown as GB)
+VMware Player|
+ec2-create-volume|GiB
+
 ### INSTALLER
 **Program** | **Unit / Comment**
 --- | ---
@@ -48,10 +55,10 @@ Midnight Commander|GB but also GiB
 ### OTHER
 **Program** | **Unit / Comment**
 --- | ---
-df/du/ls|G=1024,GB=1000
+df/du/ls|GiB,GB (both shown as G)
 swapon --show|GiB (shown as G)
 dd|GB=1000,G=1024
 lsblk|GiB (shown as G)
-free|GiB but also GB
+free|GiB but also GB (both shown without the B)
 * comma-separated values means they are not the default but are available as options
 * "but also" means the former is used as default but the latter is available as option
