@@ -47,7 +47,7 @@ Midnight Commander|GB but also GiB
 **Program** | **Unit / Comment**
 --- | ---
 df/du/ls|G=1024,GB=1000
-swapon|GiB (--show)
+swapon --show|GiB (shown as G)
 dd|GB=1000,G=1024
 lsblk|GiB (shown as G)
 free|GiB but also GB
