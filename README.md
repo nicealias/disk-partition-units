@@ -4,7 +4,7 @@ A units chart for size in disk partitioning and file tools. For those moments wh
 Have you ever been in that situation where you created a 200 GB partition during an installation and later found that it's actually 186 GiB when using a file manager or other command-line (shell) tools?
 
 * GiB refers to the traditional binary unit (2^n), commonly denoted GB in the past, also known as IEC unit
-* GB refers to the newer but confusing decimal unit (10^n), adopted by millennials, also known as SI (ISO) unit
+* GB refers to the newer but confusing decimal unit (10^n), embraced by millennials, also known as SI (ISO) unit
 
 (I've used GiB/GB as an example but all other multiple values are typically available: KiB,MiB,GiB,TiB,PiB,EiB,ZiB,YiB)
 
