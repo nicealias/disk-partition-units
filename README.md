@@ -49,7 +49,7 @@ Midnight Commander|GB but also GiB
 df/du/ls|G=1024,GB=1000
 swapon|GiB (--show)
 dd|GB=1000,G=1024
-lsblk|GiB
+lsblk|GiB (shown as G)
 free|GiB but also GB
 * comma-separated values means they are not the default but are available as options
 * "but also" means the former is used as default but the latter is available as option
