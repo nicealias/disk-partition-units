@@ -1,5 +1,5 @@
 # disk-partition-units
-A units chart for size in disk partitioning and file tools. For those moments when a megabyte is not a mebibyte.
+A units chart for size in disk partitioning and file tools. For those moments when a megabyte is not a mebibyte, Linux or otherwise.
 
 * GiB refers to the traditional binary unit (2^n), commonly denoted GB in the past
 * GB refers to the newer but confusing decimal unit (10^n), adopted by millennials
