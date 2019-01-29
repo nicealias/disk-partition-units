@@ -13,6 +13,8 @@ Have you ever been in that situation where you created a 200 GB partition during
 --- | ---
 fdisk | G=GiB but also GB (for backward compatibility)
 gdisk | GiB
+cfdisk | GiB
+cgdisk | GiB
 parted | GB
 * "but also" means the former is used as default but the latter is available as option
 
@@ -36,10 +38,10 @@ ec2-create-volume | GiB
 Ubuntu | GB (assimilates GiB)
 Debian | GB (assimilates GiB)
 Fedora | GB (GiB in "Settings")
-OpenSuse | 
-Manjaro | 
+openSUSE | GiB
+Manjaro | (depends on tool chosen)
 Windows 7 | GiB (labeled GB)
-Windows 10 | 
+Windows 10 | GiB (labeled GB)
 * "assimilates" means the unit is disregarded and the default unit is used instead
 * Fedora has a strange unit combination for initial size and for subsequent changes
 
