@@ -28,6 +28,7 @@ KDE Partition Manager | GiB
 ### VIRTUAL / CLOUD
 **Program** | **Unit / Comment**
 --- | ---
+LVM (pv/vg/lv) | GiB
 VirtualBox | GiB (labeled GB)
 VMware Player | 
 ec2-create-volume | GiB
