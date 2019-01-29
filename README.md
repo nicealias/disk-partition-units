@@ -50,7 +50,7 @@ Dolphin | GiB
 Nemo | GB but also GiB
 Krusader | GiB
 Nautilus | GB
-Double Commander | GiB
+Double Commander | GiB (labeled G)
 Midnight Commander | GB but also GiB
 Windows Explorer | GiB (labeled GB)
 * "but also" means the former is used as default but the latter is available as option
