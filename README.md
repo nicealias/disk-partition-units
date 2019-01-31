@@ -1,7 +1,7 @@
 # disk-partition-units
 A units chart for size in disk partitioning and file tools. For those moments when a megabyte is not a mebibyte, Linux or otherwise.
 
-Have you ever been in that situation where you created a 200 GB partition during an installation and later found that it's actually 186 GiB when using a file manager or other command-line (shell) tools?
+Have you ever been in that situation where you created a 200 GB partition during an installation and later found that it's actually 186 GiB when using a file manager or other command-line (shell) tools? Here's a time saving cheatsheet that will save you from a lot of trial and error.
 
 * GiB refers to the traditional binary unit (2ⁿ or 1024), commonly denoted GB in the past, also known as IEC prefix
 * GB refers to the newer but confusing decimal unit (10ⁿ or 1000), embraced by millennials, also known as SI (ISO) prefix
