@@ -58,13 +58,19 @@ Midnight Commander | GB but also GiB
 Windows Explorer | GiB (labeled GB)
 * "but also" means the former is used as default but the latter is available as option
 
-### OTHER
+### SYSTEM INFO
 **Program** | **Unit / Comment**
 --- | ---
-df/du/ls | GiB,GB (both labeled G)
+Gnome System Monitor | GB
+df | GiB,GB (both labeled G)
 swapon --show | GiB (labeled G)
-dd | GB=1000,G=1024
 lsblk | GiB (labeled G)
 free | GiB but also GB (both labeled without the B)
 * comma-separated values means they are not the default but are available as options
 * "but also" means the former is used as default but the latter is available as option
+
+### OTHER
+**Program** | **Unit / Comment**
+--- | ---
+du/ls | GiB,GB (both labeled G)
+dd | GB=1000,G=1024
