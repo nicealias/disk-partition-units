@@ -72,5 +72,7 @@ free | GiB but also GB (both labeled without the B)
 ### OTHER
 **Program** | **Unit / Comment**
 --- | ---
-du/ls | GiB,GB (both labeled G)
+du | GiB,GB (both labeled G)
+ls | GiB,GB (both labeled G)
 dd | GB=1000,G=1024
+* comma-separated values means they are not the default but are available as options
