@@ -1,4 +1,3 @@
-# disk-partition-units
 A units chart for size in disk partitioning and file tools. For those moments when a megabyte is not a mebibyte, Linux or otherwise.
 
 Have you ever been in that situation where you created a 200 GB partition during an installation and later found that it's actually 186 GiB when using a file manager or other command-line (shell) tools? Here's a time saving cheatsheet that will save you from a lot of trial and error.
@@ -53,7 +52,7 @@ Dolphin | GiB
 Nemo | GB but also GiB
 Krusader | GiB
 Nautilus | GB
-Double Commander | GiB (labeled G)
+Double Commander | GiB (labeled G / custom labels)
 Midnight Commander | GB but also GiB
 Windows Explorer | GiB (labeled GB)
 * "but also" means the former is used as default but the latter is available as option
